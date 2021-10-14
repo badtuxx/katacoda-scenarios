@@ -1,6 +1,8 @@
 {
   "title": "Hello World",
   "description": "Apenas um pequeno teste.",
+  "answer": "step1-answer.md",
+  "verify": "step1-verify.sh",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
